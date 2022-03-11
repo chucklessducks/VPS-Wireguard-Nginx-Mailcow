@@ -8,3 +8,4 @@ I have struggled with this project for a while and it finally works! I thought t
 to help other that need help with this idea. 
 
 Go to my Wiki for the full write up. I hope this is helpful for someone!
+[Prerequisite](https://github.com/chucklessducks/VPS-Wireguard-Nginx-Mailcow/wiki/Prerequisite)
