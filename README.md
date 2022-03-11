@@ -1,5 +1,5 @@
 # VPS-Wireguard-Nginx-Mailcow
-My journey to make my own email server. 
+This is my journey to make my own email server. 
 
 This idea has been a long time coming. For a long time I have toyed with the idea of hosting my own email server and client. Yes there are a ton of services out there
 but there is something about running everything on your own gear. 
